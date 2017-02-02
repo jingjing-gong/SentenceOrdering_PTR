@@ -1,5 +1,6 @@
 # SentenceOrdering_PTR
 Sentence ordering using pointer network
+### how to get it to work
 after data retrieved in all_data directory, and embedding files put in all_data/embed directory as specified. run: 
 
 `python model.py --load-config --weight-path ./final_save/lstm`
